@@ -1,6 +1,6 @@
-# TA_DKP_FitriyaNurSaidah_21120120130091__ProgramWakafTanahKGS
+# TA_DKP_FitriyaNurSaidah_21120120130091
 Tugas Akhir Praktikum DKP
 
 Nama: Fitriya Nur Saidah
 NIM: 21120120130091
-Program: Wakaf Tanah KGS menggunakan bahasa pemrograman PHP
+
